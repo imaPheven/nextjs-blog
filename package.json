@@ -14,5 +14,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "ima@codenalldaylong.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
