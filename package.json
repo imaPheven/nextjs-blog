@@ -9,5 +9,10 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "name": "nextjs-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ima@codenalldaylong.com",
+  "license": "MIT"
 }
